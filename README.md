@@ -35,22 +35,28 @@ I have worked extensively with both **numerical and image-based datasets**, deve
 ---
 
 ## Projects
-### 1. [Sales Data Analysis](https://github.com/3BDO145/SuperStore-Sales-Analysis-and-Forecasting)
+
+### 1. [Superstore Profit Analysis Using Python & MySQL](https://github.com/3BDO145/Superstore-Profit-Analysis-Python-MySQL-)
+📌 **Description:** Analyzed Superstore sales and profit data using SQL and Python to uncover key insights into product performance, regional profitability, and discount patterns.  
+🛠 **Tools Used:** Python, SQL (MySQL), Pandas, Matplotlib, Seaborn  
+📊 **Outcome:** Delivered actionable business recommendations by identifying top-performing products, high-margin regions, and optimizing discount strategies for increased profitability.
+
+### 2. [Sales Data Analysis](https://github.com/3BDO145/SuperStore-Sales-Analysis-and-Forecasting)  
 📌 **Description:** Analyzed sales data to identify trends, customer preferences, and peak sales periods.  
 🛠 **Tools Used:** Python, Pandas, Matplotlib  
 📊 **Outcome:** Extracted insights on top-selling products and seasonal sales trends to enhance business strategies.
 
-### 2. [Image Classification using Deep Learning](https://github.com/3BDO145/Garbage-classification)
-📌 **Description:** Developed a **CNN-based models** for image classification to distinguish between different categories of images.  
+### 3. [Image Classification using Deep Learning](https://github.com/3BDO145/Garbage-classification)  
+📌 **Description:** Developed a **CNN-based model** for image classification to distinguish between different categories of images.  
 🛠 **Tools Used:** Python, TensorFlow, Keras  
 📊 **Outcome:** Achieved a classification accuracy of **92%**, showcasing strong model performance.
 
-### 3. [Data Engineering Pipeline](https://github.com/3BDO145/Superstore-Profit-Analysis-Python-MySQL-)
+### 4. [Data Engineering Pipeline](https://github.com/3BDO145/Superstore-Profit-Analysis-Python-MySQL-)  
 📌 **Description:** Built an **ETL pipeline** to extract, transform, and load large datasets efficiently.  
 🛠 **Tools Used:** Python, SQL, Apache Spark  
 📊 **Outcome:** Successfully automated data processing, reducing processing time and improving data consistency.
 
-### 4. [Pima Indians Diabetes Prediction](https://github.com/3BDO145/Pima-Indians-Diabetes-ANN-Decision-Tree-)
+### 5. [Pima Indians Diabetes Prediction](https://github.com/3BDO145/Pima-Indians-Diabetes-ANN-Decision-Tree-)  
 📌 **Description:** Built an **ANN and Decision Tree model** to predict diabetes risk using the **Pima Indians Diabetes dataset**.  
 🛠 **Tools Used:** Python, TensorFlow, Scikit-learn  
 📊 **Outcome:** Improved predictive accuracy by optimizing feature selection and model hyperparameters.
